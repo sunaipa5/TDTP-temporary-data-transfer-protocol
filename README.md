@@ -1,5 +1,5 @@
 <center>
-# TDTP-temporary-data-transfer-protocol
+<h1>TDTP-temporary-data-transfer-protocol</h1>
 Temporary Data Transfer Protocol for string
 <br>
 <img src="https://github.com/sunaipa5/TDTP-temporary-data-transfer-protocol/blob/main/temp-protocol.svg" />
